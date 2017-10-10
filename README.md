@@ -22,7 +22,8 @@ The following needed:
 ## Run
 微博数据详询 zhyguo@buaa.edu.cn
 数据放入weiboData文件夹后
-python ../NB_SVM2.0
+
+python ../NB_SVM2.0.py
 
 
 
